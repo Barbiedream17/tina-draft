@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@tinacms/auth':
-        specifier: ^1.0.6
-        version: 1.0.6
+        specifier: ^1.0.8
+        version: 1.0.8
       next:
         specifier: ^14.2.7
         version: 14.2.7(@babel/core@7.25.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -1566,8 +1566,8 @@ packages:
   '@tinacms/app@2.1.1':
     resolution: {integrity: sha512-eFzG5CIQ/0VtwKnS8NqHUDLPXManeQ3YPG+0LA7VzQzyq199h2m04h902Bjr90bAXMbrgZW2VC5e5Zi/XOT6dg==}
 
-  '@tinacms/auth@1.0.6':
-    resolution: {integrity: sha512-1GcSkQo8MgZNt+b/TVZx06YhvyJ6nhCvRCDD/EGzBRDOoAqTFiw5g6zrf+acjRkSEUyt9moTtxBotW+DHLNVyw==}
+  '@tinacms/auth@1.0.8':
+    resolution: {integrity: sha512-o7OYuTSmcYHXsVK1rY30lujMNq5GaUklYI8sbboSWI/KI2PdnAgei0ZihTOlLYHD28gHwHu8WKxeXo5olwj4Mg==}
 
   '@tinacms/cli@1.6.1':
     resolution: {integrity: sha512-OOIlt0Y072g5BNinOsfLKLDexj12FnRjRoem/yZrOC4vOQcDsUzpOplEgDjU9VKK9Igt2A/L4PhvW921Wvfk4A==}
@@ -7226,7 +7226,7 @@ snapshots:
       - supports-color
       - yup
 
-  '@tinacms/auth@1.0.6':
+  '@tinacms/auth@1.0.8':
     dependencies:
       fetch-ponyfill: 7.1.0
     transitivePeerDependencies:
